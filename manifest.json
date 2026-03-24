@@ -1,0 +1,30 @@
+{
+  "lang": "it",
+  "name": "Navigatore Bici e 50ini",
+  "short_name": "DueRuote",
+  "description": "Navigatore specifico per biciclette e motorini 50cc, per muoversi in sicurezza evitando strade vietate o pericolose.",
+  "id": "/navigatore-50ini/",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["navigation", "travel"],
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
